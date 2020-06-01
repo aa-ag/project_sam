@@ -17,12 +17,21 @@ div {
     padding: 20px;
 }
 
+label {
+    display: block;
+    text-align: left;
+    color: grey;
+    margin-left: 20rem;
+    margin-bottom: 6px;
+}
+
 input {
     text-align: left;
     color: silver;
     width: 40%;
     border-radius: 4px;
     padding: 10px;
+    margin: 6px 10px;
     border: 0.5px solid silver;
 }
 
