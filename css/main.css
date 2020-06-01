@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+input {
+    text-align: left;
+    color: silver;
+}
+
+#submitButton {
+    background-color: teal;
+    color: white;
+}
