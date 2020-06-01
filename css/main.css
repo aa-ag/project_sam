@@ -35,6 +35,11 @@ input {
     border: 0.5px solid silver;
 }
 
+input:focus {
+    outline: none;
+    border: 3px solid rgb(253, 194, 0);
+}
+
 #submitButton {
     text-align: center;
     background-color: teal;
